@@ -1,0 +1,8 @@
+# Dependencias necesarias para el microservicio
+
+# para crear el microservicio
+Flask==3.0.0
+# Werkzeug: Librería de utilidades WSGI (viene con Flask pero la especificamos por compatibilidad)
+Werkzeug==3.0.0
+requests==2.31.0
+
